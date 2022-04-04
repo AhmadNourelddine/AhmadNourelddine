@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Ahmad</h1>
 
-
+<h3 align="center">A full stack developer</h3>
 
 <h3 align="left">Languages:</h3>
 
@@ -39,6 +39,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 
 
-<h3 align="center">A full stack developer</h3>
+
 
 - 📫 How to reach me **ahmad.nourelddine@email.com**
